@@ -1,6 +1,7 @@
 # BlockChain_Devops_Web
 This repository contains Notes 
-************ Web Dev *************
+************ Web Dev Notes *************
+
 starting**
 https://projects.100xdevs.com/tracks/web-orientation/Web-Dev---Devops-Orientation-1
 https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1
