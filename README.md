@@ -39,7 +39,14 @@ week - 7**
 https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e
 
 week- 8**
+Making a course selling backend Project
 
+week -9**
+basic React : https://www.canva.com/design/DAGStTo7_1Y/H-uoNlkdJ2X4P3LbOME45Q/edit
+
+week-10***
+https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
+week -11**
 coming soon....
 
 *******BlockChain********
