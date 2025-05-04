@@ -46,6 +46,7 @@ basic React : https://www.canva.com/design/DAGStTo7_1Y/H-uoNlkdJ2X4P3LbOME45Q/ed
 
 week-10***
 https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
+
 week -11**
 coming soon....
 
@@ -57,12 +58,11 @@ Introduction
 week - 2
 https://projects.100xdevs.com/tracks/public-private-keys/Public-Key-Cryptography-1
 
-week- 3**[
-(https://petal-estimate-4e9.notion.site/Creating-a-web-based-wallet-b628b611dd934ca8b68a2654ac14fdb4)
+week- 3**
+https://petal-estimate-4e9.notion.site/Creating-a-web-based-wallet-b628b611dd934ca8b68a2654ac14fdb4
 
 week - 4**
 https://petal-estimate-4e9.notion.site/Solana-Jargon-Programming-model-Tokens-45937002d4c24cda9d02fc02a6dedc1c
-
 
 week - 5***
 https://petal-estimate-4e9.notion.site/Wallet-adapter-860feade9cb940cea696eedf4fc61251
