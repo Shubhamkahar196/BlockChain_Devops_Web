@@ -36,6 +36,10 @@ week - 6**
 https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa
 
 week - 7**
+https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e
+
+week- 8**
+
 coming soon....
 
 *******BlockChain********
