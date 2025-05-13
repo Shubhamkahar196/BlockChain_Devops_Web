@@ -50,7 +50,9 @@ https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e339
 week -11**
 -custom hooks : https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
 - Recoil : https://petal-estimate-4e9.notion.site/Recoil-1247dfd107358016bdb1ea1bb52e4a68
-- 
+- Recoil offline Video : https://drive.google.com/file/d/1DKFKbl35icY1LD7tIt7jGawpd7UZtZT1/view?pli=1
+
+  
 week -12**
 coming soon....
 *******BlockChain********
