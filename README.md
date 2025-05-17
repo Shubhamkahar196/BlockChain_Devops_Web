@@ -54,7 +54,10 @@ week -11**
 
   
 week -12**
-coming soon....
+https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220
+
+week - 13 **
+coming soon
 *******BlockChain********
 
 Week - 1
