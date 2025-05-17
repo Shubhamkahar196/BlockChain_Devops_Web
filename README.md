@@ -53,11 +53,13 @@ week -11**
 - Recoil offline Video : https://drive.google.com/file/d/1DKFKbl35icY1LD7tIt7jGawpd7UZtZT1/view?pli=1
 
   
-week -12**
+week -12** UI/UX
 https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220
 
-week - 13 **
+week - 13 ** /Tailwind
 coming soon
+
+week - 14** TypeScript
 *******BlockChain********
 
 Week - 1
