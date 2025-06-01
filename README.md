@@ -82,6 +82,10 @@ https://petal-estimate-4e9.notion.site/Wallet-adapter-860feade9cb940cea696eedf4f
 week-6 ****
 coming soon
 
+**Devops **
+week - 1 **
+coming soon
+
 week - 6** 
 coming soon
 
