@@ -64,7 +64,7 @@ part-2
 https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit
 
 week - 14** TypeScript
-coming soon
+part - 1 : https://projects.100xdevs.com/tracks/6SbPPXGkG8QKFOTW9BmL/ts-1
 
 *******BlockChain********
 
