@@ -67,6 +67,9 @@ week - 14** TypeScript
 part - 1 : https://projects.100xdevs.com/tracks/6SbPPXGkG8QKFOTW9BmL/ts-1
 part - 2 : https://projects.100xdevs.com/tracks/6SbPPXGkG8QKFOTW9BmL/ts-1
 
+week-15 **Project**
+part-1 => https://petal-estimate-4e9.notion.site/Building-a-second-brain-app-1407dfd1073580c19ac3cbe9afa9ac27
+
 *******BlockChain********
 
 Week - 1
