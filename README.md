@@ -72,6 +72,9 @@ part-1 => https://petal-estimate-4e9.notion.site/Building-a-second-brain-app-140
 part- 2 => comming soon
 part -3 => comming soon
 
+week-16 **Websocket**
+part-1 https://petal-estimate-4e9.notion.site/Websockets-1477dfd1073580d59181d486944944a7
+
 *******BlockChain********
 
 Week - 1
