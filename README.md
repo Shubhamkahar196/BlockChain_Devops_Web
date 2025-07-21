@@ -75,6 +75,9 @@ part -3 => comming soon
 week-16 **Websocket**
 part-1 https://petal-estimate-4e9.notion.site/Websockets-1477dfd1073580d59181d486944944a7
 
+week-17 -**Postgress and SQL**
+part-1 https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1
+
 *******BlockChain********
 
 Week - 1
